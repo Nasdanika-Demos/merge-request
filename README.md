@@ -1,1 +1,1 @@
-Illustrations for the [A cubicle for a non-human merge request reviewer](TODO) Medium story.
+Illustrations for the [A cubicle for a non-human merge request reviewer](https://medium.com/nasdanika/a-cubicle-for-a-non-human-merge-request-reviewer-764fd976f48c) Medium story.
